@@ -1,0 +1,8 @@
+.DS_Store/
+.DS_Store
+**/ML_env/**
+exploratory_analysis_EG.ipynb
+linear_separability_old.ipynb
+linear_separability_v2.ipynb
+LinearModels_HyperparameterTuning_final_*
+feature_selection_final_*
